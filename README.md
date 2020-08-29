@@ -2,9 +2,10 @@
 
 ## 模块
 ### http模块
-/modules/http.js
-demo: /demo/http.js
-此模块主要针对auto.js提供的http模块没有超时选项，可能导致进程卡死的问题
+> `/modules/http.js`  
+> demo: `/demo/http.js`      
+> 此模块主要针对`auto.js`提供的`http`模块没有超时选项，可能导致进程卡死的问题      
+> `auto.js`原有`http`模块文档：`http://docs.autojs.org/#/http`      
 
 ```js
 /**
